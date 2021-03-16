@@ -12,7 +12,7 @@ atributos:
 
 métodos:
 - aumentaVolume: possibilita aumentar o volume em incrementos de 5
-- diminuiVolume: possibilita aumentar o volume em incrementos de 5
+- diminuiVolume: possibilita diminuir o volume em decrementos de 5
 - liga: liga o monitor
 - desliga: desliga o monitor
 - alteraResolucao: muda a resolução atual, não pode ser superior à resolução máxima horizontal ou vertical
