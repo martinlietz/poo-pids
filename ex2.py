@@ -1,4 +1,5 @@
 class Jogador:
+  # o método __init__ é obrigatório e é executado ao fazer Jogador()
   def __init__(self, id, nome, idade, points = 0):
     self.id = id
     self.nome = nome
@@ -15,6 +16,7 @@ class Animal:
     self.populacao = population
 
   def reproduzir(self, quantidade):
+    # Animal.reproduzir(self, 100)
     self.populacao = self.populacao + quantidade
 
   def alimentar(self):
