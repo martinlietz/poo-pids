@@ -1,5 +1,5 @@
 # Classe Monitor
-![Lets Code](logoLcPng.png=240px)
+<img src="logoLcPng.png" width="200" alt="Lets Code">
 Crie uma classe monitor que satisfaça as seguintes condições:
 
 atributos:
